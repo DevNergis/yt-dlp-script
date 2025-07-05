@@ -251,4 +251,4 @@ cython_debug/
 cookies.txt
 build
 dist
-cd.py
+test
