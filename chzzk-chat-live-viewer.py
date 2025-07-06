@@ -82,10 +82,14 @@ async def connect_to_websocket(channel_id, file_stream):
                             if pay_amount and pay_amount > 0:
                                 log_message = f"[{formatted_time}] {nickname}{os_info} ({pay_amount}원 후원): {msg}\n"
                             else:
-                                log_message = f"[{formatted_time}] {nickname}{os_info}: {msg}\n"
+                                log_message = (
+                                    f"[{formatted_time}] {nickname}{os_info}: {msg}\n"
+                                )
 
                             await file_stream.write(log_message)
-                            await file_stream.flush()  # 버퍼를 플러시하여 파일에 즉시 쓰도록 합니다.
+                            await (
+                                file_stream.flush()
+                            )  # 버퍼를 플러시하여 파일에 즉시 쓰도록 합니다.
                             print(log_message.strip())
                     except Exception:
                         continue
