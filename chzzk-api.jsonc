@@ -1,0 +1,127 @@
+// https://api.chzzk.naver.com/service/v3.2/channels/affa78deac0b23d2046b8ed4856c1e62/live-detail
+// =>
+{
+  "code": 200,
+  "message": null,
+  "content": {
+    "liveId": 13229308,
+    "liveTitle": "하ㅏ씨이이ㅣ",
+    "status": "OPEN",
+    "liveImageUrl": "https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26441751/live/13229308/record/42108777/thumbnail/image_{type}.jpg",
+    "defaultThumbnailImageUrl": null,
+    "concurrentUserCount": 948,
+    "accumulateCount": 0,
+    "openDate": "2025-07-06 20:19:00",
+    "closeDate": null,
+    "adult": false,
+    "krOnlyViewing": false,
+    "clipActive": true,
+    "tags": [
+      "앙마련",
+      "인성나쁨",
+      "게임중독",
+      "커피중독"
+    ],
+    "chatChannelId": "N1tN-o",
+    "categoryType": "ETC",
+    "liveCategory": "talk",
+    "liveCategoryValue": "talk",
+    "chatActive": true,
+    "chatAvailableGroup": "ALL",
+    "paidPromotion": false,
+    "chatAvailableCondition": "NONE",
+    "minFollowerMinute": 0,
+    "allowSubscriberInFollowerMode": true,
+    "livePlaybackJson": "{\"meta\":{\"videoId\":\"68EBDC3CE3E02C7D2991B6FF22D42715C433\",\"streamSeq\":26441751,\"liveId\":\"13229308\",\"paidLive\":false,\"cdnInfo\":{\"cdnType\":\"GCDN\"},\"p2p\":true,\"cmcdEnabled\":false,\"playbackAuthType\":\"NONE\"},\"serviceMeta\":{\"contentType\":\"VIDEO\"},\"live\":{\"start\":\"2025-07-06T20:19:00\",\"open\":\"2025-07-06T20:19:00\",\"timeMachine\":false,\"status\":\"STARTED\"},\"api\":[{\"name\":\"p2p-config\",\"path\":\"https://apis.naver.com/livecloud/livecloud/xray/p2p/v1/config/chzzk\"},{\"name\":\"qoeConfig\",\"path\":\"https://apis.naver.com/policy/policy/policy\"}],\"media\":[{\"mediaId\":\"HLS\",\"protocol\":\"HLS\",\"path\":\"https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/tjlffrw2dpswwipz81d3i7ek55s1vpmwyh_hls_playlist.m3u8?hdnts=st=1751804537~exp=1751865747~acl=*/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/*~hmac=0d8f8ed928e694cc8980bf9967e865f561051b86e93f0cd2b0eb69ab7c2ea1e2\",\"encodingTrack\":[{\"encodingTrackId\":\"1080p\",\"videoProfile\":\"high\",\"audioProfile\":\"LC\",\"p2pPath\":\"/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4_hls_1080p_playlist.m3u8?channel_id=13229308_hls_h264_1080p_42108777&cdn_url=aHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDIvMG1hajJmaGd0Zzd6MGt1bHN4NGZiaWVud3Y1NXMxdnBuMWo0LzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNF9obHNfMTA4MHBfcGxheWxpc3QubTN1OD9oZG50cz1zdD0xNzUxODA0NTM3fmV4cD0xNzUxODYzOTQ3fmFjbD0qLzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNC8qfmhtYWM9NzUxOTE1MmJmYmM5YThhMGNhMzVjNGE5YzQ0ZjA1NmI4NzIwZDU3NzBiODhkODg1MzI5N2YxNmNkNDM0YzA4Yw==&timemachine=false&service_code=chzzk&playback_auth_type=NONE\",\"p2pPathUrlEncoding\":\"/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4_hls_1080p_playlist.m3u8?channel_id%3D13229308_hls_h264_1080p_42108777%26cdn_url%3DaHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDIvMG1hajJmaGd0Zzd6MGt1bHN4NGZiaWVud3Y1NXMxdnBuMWo0LzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNF9obHNfMTA4MHBfcGxheWxpc3QubTN1OD9oZG50cz1zdD0xNzUxODA0NTM3fmV4cD0xNzUxODYzOTQ3fmFjbD0qLzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNC8qfmhtYWM9NzUxOTE1MmJmYmM5YThhMGNhMzVjNGE5YzQ0ZjA1NmI4NzIwZDU3NzBiODhkODg1MzI5N2YxNmNkNDM0YzA4Yw%3D%3D%26timemachine%3Dfalse%26service_code%3Dchzzk%26playback_auth_type%3DNONE\",\"videoCodec\":\"H264\",\"videoBitRate\":6144000,\"audioBitRate\":192000,\"videoFrameRate\":\"60.0\",\"videoWidth\":1920,\"videoHeight\":1080,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":true,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"144p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":128000,\"audioBitRate\":64000,\"videoFrameRate\":\"30.0\",\"videoWidth\":256,\"videoHeight\":144,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"360p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":600000,\"audioBitRate\":96000,\"videoFrameRate\":\"30.0\",\"videoWidth\":640,\"videoHeight\":360,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"720p\",\"videoProfile\":\"high\",\"audioProfile\":\"LC\",\"p2pPath\":\"/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4_hls_720p_playlist.m3u8?channel_id=13229308_hls_h264_720p_42108777&cdn_url=aHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDIvMG1hajJmaGd0Zzd6MGt1bHN4NGZiaWVud3Y1NXMxdnBuMWo0LzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNF9obHNfNzIwcF9wbGF5bGlzdC5tM3U4P2hkbnRzPXN0PTE3NTE4MDQ1Mzd+ZXhwPTE3NTE4NjM5NDd+YWNsPSovMG1hajJmaGd0Zzd6MGt1bHN4NGZiaWVud3Y1NXMxdnBuMWo0Lyp+aG1hYz03NTE5MTUyYmZiYzlhOGEwY2EzNWM0YTljNDRmMDU2Yjg3MjBkNTc3MGI4OGQ4ODUzMjk3ZjE2Y2Q0MzRjMDhj&timemachine=false&service_code=chzzk&playback_auth_type=NONE\",\"p2pPathUrlEncoding\":\"/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4_hls_720p_playlist.m3u8?channel_id%3D13229308_hls_h264_720p_42108777%26cdn_url%3DaHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDIvMG1hajJmaGd0Zzd6MGt1bHN4NGZiaWVud3Y1NXMxdnBuMWo0LzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNF9obHNfNzIwcF9wbGF5bGlzdC5tM3U4P2hkbnRzPXN0PTE3NTE4MDQ1Mzd%2BZXhwPTE3NTE4NjM5NDd%2BYWNsPSovMG1hajJmaGd0Zzd6MGt1bHN4NGZiaWVud3Y1NXMxdnBuMWo0Lyp%2BaG1hYz03NTE5MTUyYmZiYzlhOGEwY2EzNWM0YTljNDRmMDU2Yjg3MjBkNTc3MGI4OGQ4ODUzMjk3ZjE2Y2Q0MzRjMDhj%26timemachine%3Dfalse%26service_code%3Dchzzk%26playback_auth_type%3DNONE\",\"videoCodec\":\"H264\",\"videoBitRate\":3000000,\"audioBitRate\":192000,\"videoFrameRate\":\"60.0\",\"videoWidth\":1280,\"videoHeight\":720,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false},{\"encodingTrackId\":\"480p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":1500000,\"audioBitRate\":192000,\"videoFrameRate\":\"30.0\",\"videoWidth\":852,\"videoHeight\":480,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"audioOnly\",\"path\":\"https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/tjlffrw2dpswwipz81d3i7ek55s1vpmwyh_hls_audioOnly_playlist.m3u8?hdnts=st=1751804537~exp=1751865747~acl=*/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/*~hmac=0d8f8ed928e694cc8980bf9967e865f561051b86e93f0cd2b0eb69ab7c2ea1e2\",\"audioCodec\":\"AAC\",\"audioBitRate\":64000,\"audioOnly\":true,\"audioSamplingRate\":48000,\"audioChannel\":1,\"avoidReencoding\":false}]},{\"mediaId\":\"LLHLS\",\"protocol\":\"HLS\",\"path\":\"https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/tjlffrw2dpswwipz81d3i7ek55s1vpmwyh_playlist.m3u8?hdnts=st=1751804537~exp=1751865747~acl=*/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/*~hmac=0d8f8ed928e694cc8980bf9967e865f561051b86e93f0cd2b0eb69ab7c2ea1e2\",\"latency\":\"lowLatency\",\"encodingTrack\":[{\"encodingTrackId\":\"1080p\",\"videoProfile\":\"high\",\"audioProfile\":\"LC\",\"p2pPath\":\"/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/tjlffrw2dpswwipz81d3i7ek55s1vpmwyh_1080p_playlist.m3u8?channel_id=13229308_hls_h264_1080p_42108777&cdn_url=aHR0cHM6Ly9leC1ubGl2ZS1zdHJlYW1pbmcubmF2ZXJjZG4uY29tL2NoenprL2xpcDJfa3IvY2ZsZXhubXNzMnUwMDAyLzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNC90amxmZnJ3MmRwc3d3aXB6ODFkM2k3ZWs1NXMxdnBtd3loXzEwODBwX3BsYXlsaXN0Lm0zdTg/aGRudHM9c3Q9MTc1MTgwNDUzN35leHA9MTc1MTg2NTc0N35hY2w9Ki8wbWFqMmZoZ3RnN3owa3Vsc3g0ZmJpZW53djU1czF2cG4xajQvKn5obWFjPTBkOGY4ZWQ5MjhlNjk0Y2M4OTgwYmY5OTY3ZTg2NWY1NjEwNTFiODZlOTNmMGNkMmIwZWI2OWFiN2MyZWExZTI=&timemachine=false&service_code=chzzk&playback_auth_type=NONE\",\"p2pPathUrlEncoding\":\"/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/tjlffrw2dpswwipz81d3i7ek55s1vpmwyh_1080p_playlist.m3u8?channel_id%3D13229308_hls_h264_1080p_42108777%26cdn_url%3DaHR0cHM6Ly9leC1ubGl2ZS1zdHJlYW1pbmcubmF2ZXJjZG4uY29tL2NoenprL2xpcDJfa3IvY2ZsZXhubXNzMnUwMDAyLzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNC90amxmZnJ3MmRwc3d3aXB6ODFkM2k3ZWs1NXMxdnBtd3loXzEwODBwX3BsYXlsaXN0Lm0zdTg%2FaGRudHM9c3Q9MTc1MTgwNDUzN35leHA9MTc1MTg2NTc0N35hY2w9Ki8wbWFqMmZoZ3RnN3owa3Vsc3g0ZmJpZW53djU1czF2cG4xajQvKn5obWFjPTBkOGY4ZWQ5MjhlNjk0Y2M4OTgwYmY5OTY3ZTg2NWY1NjEwNTFiODZlOTNmMGNkMmIwZWI2OWFiN2MyZWExZTI%3D%26timemachine%3Dfalse%26service_code%3Dchzzk%26playback_auth_type%3DNONE\",\"videoCodec\":\"H264\",\"videoBitRate\":6144000,\"audioBitRate\":192000,\"videoFrameRate\":\"60.0\",\"videoWidth\":1920,\"videoHeight\":1080,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":true,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"144p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":128000,\"audioBitRate\":64000,\"videoFrameRate\":\"30.0\",\"videoWidth\":256,\"videoHeight\":144,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"360p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":600000,\"audioBitRate\":96000,\"videoFrameRate\":\"30.0\",\"videoWidth\":640,\"videoHeight\":360,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"720p\",\"videoProfile\":\"high\",\"audioProfile\":\"LC\",\"p2pPath\":\"/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/tjlffrw2dpswwipz81d3i7ek55s1vpmwyh_720p_playlist.m3u8?channel_id=13229308_hls_h264_720p_42108777&cdn_url=aHR0cHM6Ly9leC1ubGl2ZS1zdHJlYW1pbmcubmF2ZXJjZG4uY29tL2NoenprL2xpcDJfa3IvY2ZsZXhubXNzMnUwMDAyLzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNC90amxmZnJ3MmRwc3d3aXB6ODFkM2k3ZWs1NXMxdnBtd3loXzcyMHBfcGxheWxpc3QubTN1OD9oZG50cz1zdD0xNzUxODA0NTM3fmV4cD0xNzUxODY1NzQ3fmFjbD0qLzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNC8qfmhtYWM9MGQ4ZjhlZDkyOGU2OTRjYzg5ODBiZjk5NjdlODY1ZjU2MTA1MWI4NmU5M2YwY2QyYjBlYjY5YWI3YzJlYTFlMg==&timemachine=false&service_code=chzzk&playback_auth_type=NONE\",\"p2pPathUrlEncoding\":\"/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/tjlffrw2dpswwipz81d3i7ek55s1vpmwyh_720p_playlist.m3u8?channel_id%3D13229308_hls_h264_720p_42108777%26cdn_url%3DaHR0cHM6Ly9leC1ubGl2ZS1zdHJlYW1pbmcubmF2ZXJjZG4uY29tL2NoenprL2xpcDJfa3IvY2ZsZXhubXNzMnUwMDAyLzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNC90amxmZnJ3MmRwc3d3aXB6ODFkM2k3ZWs1NXMxdnBtd3loXzcyMHBfcGxheWxpc3QubTN1OD9oZG50cz1zdD0xNzUxODA0NTM3fmV4cD0xNzUxODY1NzQ3fmFjbD0qLzBtYWoyZmhndGc3ejBrdWxzeDRmYmllbnd2NTVzMXZwbjFqNC8qfmhtYWM9MGQ4ZjhlZDkyOGU2OTRjYzg5ODBiZjk5NjdlODY1ZjU2MTA1MWI4NmU5M2YwY2QyYjBlYjY5YWI3YzJlYTFlMg%3D%3D%26timemachine%3Dfalse%26service_code%3Dchzzk%26playback_auth_type%3DNONE\",\"videoCodec\":\"H264\",\"videoBitRate\":3000000,\"audioBitRate\":192000,\"videoFrameRate\":\"60.0\",\"videoWidth\":1280,\"videoHeight\":720,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false},{\"encodingTrackId\":\"480p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":1500000,\"audioBitRate\":192000,\"videoFrameRate\":\"30.0\",\"videoWidth\":852,\"videoHeight\":480,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"audioOnly\",\"path\":\"https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0002/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/tjlffrw2dpswwipz81d3i7ek55s1vpmwyh_audioOnly_playlist.m3u8?hdnts=st=1751804537~exp=1751865747~acl=*/0maj2fhgtg7z0kulsx4fbienwv55s1vpn1j4/*~hmac=0d8f8ed928e694cc8980bf9967e865f561051b86e93f0cd2b0eb69ab7c2ea1e2\",\"audioCodec\":\"AAC\",\"audioBitRate\":64000,\"audioOnly\":true,\"audioSamplingRate\":48000,\"audioChannel\":1,\"avoidReencoding\":false}]}],\"thumbnail\":{\"snapshotThumbnailTemplate\":\"https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26441751/live/13229308/record/42108777/thumbnail/image_{type}.jpg\",\"spriteSeekingThumbnail\":{\"spriteFormat\":{\"rowCount\":3,\"columnCount\":4,\"intervalType\":\"millisecond\",\"interval\":20000,\"thumbnailWidth\":160,\"thumbnailHeight\":90},\"urlTemplate\":\"https://livecloud-thumb.akamaized.net/chzzk/kr/live-image/live/record/42108777/seeking/thumbnail/image_4x3x20000_13229308_{spriteIndex}.jpg\",\"processingSeconds\":120},\"types\":[\"1080\",\"720\",\"480\",\"360\",\"270\",\"144\"]},\"multiview\":[]}",
+    "p2pQuality": [
+      "1080p",
+      "720p"
+    ],
+    "timeMachineActive": false,
+    "timeMachinePlayback": false,
+    "channel": {
+      "channelId": "affa78deac0b23d2046b8ed4856c1e62",
+      "channelName": "모카형",
+      "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA3MTRfMjg3/MDAxNzIwOTQxNjg2MzQ4.xdG-Zz-eRou5WdXvkQvn8k5Qxd2ezn0qeI8gmOhuYTIg.jKcQk19bO--ZOCFK9bRu9Mv0X7mKGEHlJ8yCu9-zj_wg.PNG/%EC%BA%A1%EC%B2%98.PNG",
+      "verifiedMark": true,
+      "activatedChannelBadgeIds": []
+    },
+    "livePollingStatusJson": "{\"status\": \"STARTED\", \"isPublishing\": true, \"playableStatus\": \"PLAYABLE\", \"trafficThrottling\": -1, \"callPeriodMilliSecond\": 10000}",
+    "userAdultStatus": null,
+    "blindType": null,
+    "chatDonationRankingExposure": true,
+    "adParameter": {
+      "tag": "none"
+    },
+    "dropsCampaignNo": null,
+    "watchPartyNo": null,
+    "watchPartyTag": null,
+    "watchPartyPaidProductId": null,
+    "earthquake": false,
+    "paidProduct": null
+  }
+}
+
+
+// https://api.chzzk.naver.com/service/v1/channels/affa78deac0b23d2046b8ed4856c1e62
+// =>
+{
+  "code": 200,
+  "message": null,
+  "content": {
+    "channelId": "affa78deac0b23d2046b8ed4856c1e62",
+    "channelName": "모카형",
+    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA3MTRfMjg3/MDAxNzIwOTQxNjg2MzQ4.xdG-Zz-eRou5WdXvkQvn8k5Qxd2ezn0qeI8gmOhuYTIg.jKcQk19bO--ZOCFK9bRu9Mv0X7mKGEHlJ8yCu9-zj_wg.PNG/%EC%BA%A1%EC%B2%98.PNG",
+    "verifiedMark": true,
+    "channelType": "STREAMING",
+    "channelDescription": "",
+    "followerCount": 70191,
+    "openLive": true,
+    "subscriptionAvailability": true,
+    "subscriptionPaymentAvailability": {
+      "iapAvailability": false,
+      "iabAvailability": true
+    },
+    "adMonetizationAvailability": true,
+    "activatedChannelBadgeIds": [],
+    "paidProductSaleAllowed": false
+  }
+}
+
+
+// https://api.chzzk.naver.com/service/v1/search/channels?keyword=%EB%AA%A8%EC%B9%B4&offset=0&size=1
+// =>
+{
+  "code": 200,
+  "message": null,
+  "content": {
+    "size": 1,
+    "page": {
+      "next": {
+        "offset": 1
+      }
+    },
+    "data": [
+      {
+        "channel": {
+          "channelId": "affa78deac0b23d2046b8ed4856c1e62",
+          "channelName": "모카형",
+          "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA3MTRfMjg3/MDAxNzIwOTQxNjg2MzQ4.xdG-Zz-eRou5WdXvkQvn8k5Qxd2ezn0qeI8gmOhuYTIg.jKcQk19bO--ZOCFK9bRu9Mv0X7mKGEHlJ8yCu9-zj_wg.PNG/%EC%BA%A1%EC%B2%98.PNG",
+          "verifiedMark": true,
+          "channelDescription": "",
+          "followerCount": 70191,
+          "openLive": true,
+          "activatedChannelBadgeIds": [],
+          "personalData": {
+            "following": {
+              "following": true,
+              "notification": true,
+              "followDate": "2025-02-22 00:01:35"
+            },
+            "privateUserBlock": false
+          }
+        }
+      }
+    ]
+  }
+}
