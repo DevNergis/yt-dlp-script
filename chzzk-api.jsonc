@@ -60,7 +60,7 @@
     "earthquake": false,
     "paidProduct": null
   }
-}
+},
 
 
 // https://api.chzzk.naver.com/service/v1/channels/affa78deac0b23d2046b8ed4856c1e62
@@ -86,7 +86,7 @@
     "activatedChannelBadgeIds": [],
     "paidProductSaleAllowed": false
   }
-}
+},
 
 
 // https://api.chzzk.naver.com/service/v1/search/channels?keyword=%EB%AA%A8%EC%B9%B4&offset=0&size=1
